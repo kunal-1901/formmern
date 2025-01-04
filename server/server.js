@@ -14,6 +14,7 @@ app.use(
   cors({
     origin: [
       "*" ,
+      "https://vocal-cocada-337fe1.netlify.app",
       "https://tubular-torrone-c126b3.netlify.app",
       "http://localhost:8000",
       "http://localhost:5173",
